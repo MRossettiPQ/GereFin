@@ -1,4 +1,6 @@
 # GereFin
+(Aplicação apesar de funcional, não apresentação desenvolvimento de graficos. e pode apresentar alguns bugs operacionais ralacionados a atualização do saldo financeiro de um projeto)
+
 Matheus Rossetti - Rian Turibio - Igor Favro
 
 Sistema de gerenciamento orçamentário 
