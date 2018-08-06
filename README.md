@@ -1,5 +1,5 @@
 # GereFin
-(Aplicação apesar de funcional, não apresentação desenvolvimento de graficos. e pode apresentar alguns bugs operacionais ralacionados a atualização do saldo financeiro de um projeto)
+(Aplicação apesar de funcional, não apresentação desenvolvimento de graficos. e pode apresentar alguns bugs operacionais ralacionados a atualização do saldo financeiro de um projeto. Instalar e configurar Wamp para execução)
 
 Matheus Rossetti - Rian Turibio - Igor Favro
 
