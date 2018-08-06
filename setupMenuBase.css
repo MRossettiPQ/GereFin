@@ -1,0 +1,41 @@
+#menu ul 
+{   
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;    
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0;
+    display:table;
+}
+#menu
+{
+    background: #3b5998;
+    display: table;
+    width: 100%;
+}
+
+#menu ul 
+{
+    list-style: none;
+}
+#menu ul li 
+{
+    display: inline;
+}
+#menu ul li a
+{
+    font:13px verdana, arial, tahoma, sans-serif;
+    color: black;
+    background: #3b5998;
+    text-decoration: none;
+    float: left;
+    padding: 5px 10px;
+    margin-left: 1px;
+}
+#menu ul li a:hover
+{
+    color: #3b5998;
+    background: rgb(255, 255, 255);
+}

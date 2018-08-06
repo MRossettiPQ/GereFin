@@ -1,0 +1,41 @@
+#menuLogin ul 
+{   
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;    
+    margin-left:auto;
+    margin-right:0;
+    margin-top:0;
+    display:table;
+}
+#menuLogin
+{
+    background: #3b5998;
+    display: table;
+    width: 100%;
+}
+
+#menuLogin ul 
+{
+    list-style: none;
+}
+#menuLogin ul li 
+{
+    display: inline;
+}
+#menuLogin ul li a
+{
+    font:13px verdana, arial, tahoma, sans-serif;
+    color: black;
+    background: #3b5998;
+    text-decoration: none;
+    float: left;
+    padding: 5px 10px;
+    margin-left: 0px;
+}
+#menuLogin ul li a:hover
+{
+    color: #3b5998;
+    background: rgb(248, 248, 248);
+}
